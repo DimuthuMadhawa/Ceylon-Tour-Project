@@ -231,7 +231,7 @@ mysql --version
 
 #### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/DininduAkalanka/Ceylon-Tour-Project.git
+https://github.com/DimuthuMadhawa/Ceylon-Tour-Project.git
 cd Ceylon-Tour-Project
 ```
 
